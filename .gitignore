@@ -1,0 +1,12 @@
+/.settings
+/.cproject
+/.project
+*.a
+*.o
+*.exe
+*.bak
+*.BAK
+*.png
+*.pbm
+.*.md.html
+/BAK/
